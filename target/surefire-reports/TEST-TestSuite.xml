@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="185.258" tests="8" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="17"/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.class.path" value="/var/lib/jenkins/workspace/Playwright-Java-PageObjectModel/target/test-classes:/var/lib/jenkins/workspace/Playwright-Java-PageObjectModel/target/classes:/root/.m2/repository/com/microsoft/playwright/playwright/1.39.0/playwright-1.39.0.jar:/root/.m2/repository/com/google/code/gson/gson/2.8.9/gson-2.8.9.jar:/root/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar:/root/.m2/repository/com/microsoft/playwright/driver/1.39.0/driver-1.39.0.jar:/root/.m2/repository/com/microsoft/playwright/driver-bundle/1.39.0/driver-bundle-1.39.0.jar:/root/.m2/repository/org/testng/testng/6.14.3/testng-6.14.3.jar:/root/.m2/repository/com/beust/jcommander/1.72/jcommander-1.72.jar:/root/.m2/repository/org/apache-extras/beanshell/bsh/2.0b6/bsh-2.0b6.jar:/root/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar:/root/.m2/repository/io/reactivex/rxjava3/rxjava/3.0.4/rxjava-3.0.4.jar:/root/.m2/repository/org/reactivestreams/reactive-streams/1.0.3/reactive-streams-1.0.3.jar:/root/.m2/repository/org/freemarker/freemarker/2.3.30/freemarker-2.3.30.jar:/root/.m2/repository/org/projectlombok/lombok/1.18.30/lombok-1.18.30.jar:"/>
+    <property name="java.vm.vendor" value="Red Hat, Inc."/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.vendor.url" value="https://www.redhat.com/"/>
+    <property name="os.name" value="Linux"/>
+    <property name="java.vm.specification.version" value="17"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.boot.library.path" value="/usr/lib/jvm/java-17-openjdk-17.0.14.0.7-2.el9.x86_64/lib"/>
+    <property name="sun.java.command" value="/var/lib/jenkins/workspace/Playwright-Java-PageObjectModel/target/surefire/surefirebooter13181279949628077640.jar /var/lib/jenkins/workspace/Playwright-Java-PageObjectModel/target/surefire 2025-03-07T01-10-11_337-jvmRun1 surefire14773508827444267792tmp surefire_01475619684862482665tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="/var/lib/jenkins/workspace/Playwright-Java-PageObjectModel/target/test-classes:/var/lib/jenkins/workspace/Playwright-Java-PageObjectModel/target/classes:/root/.m2/repository/com/microsoft/playwright/playwright/1.39.0/playwright-1.39.0.jar:/root/.m2/repository/com/google/code/gson/gson/2.8.9/gson-2.8.9.jar:/root/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar:/root/.m2/repository/com/microsoft/playwright/driver/1.39.0/driver-1.39.0.jar:/root/.m2/repository/com/microsoft/playwright/driver-bundle/1.39.0/driver-bundle-1.39.0.jar:/root/.m2/repository/org/testng/testng/6.14.3/testng-6.14.3.jar:/root/.m2/repository/com/beust/jcommander/1.72/jcommander-1.72.jar:/root/.m2/repository/org/apache-extras/beanshell/bsh/2.0b6/bsh-2.0b6.jar:/root/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar:/root/.m2/repository/io/reactivex/rxjava3/rxjava/3.0.4/rxjava-3.0.4.jar:/root/.m2/repository/org/reactivestreams/reactive-streams/1.0.3/reactive-streams-1.0.3.jar:/root/.m2/repository/org/freemarker/freemarker/2.3.30/freemarker-2.3.30.jar:/root/.m2/repository/org/projectlombok/lombok/1.18.30/lombok-1.18.30.jar:"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="/root"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2025-01-21"/>
+    <property name="java.home" value="/usr/lib/jvm/java-17-openjdk-17.0.14.0.7-2.el9.x86_64"/>
+    <property name="file.separator" value="/"/>
+    <property name="basedir" value="/var/lib/jenkins/workspace/Playwright-Java-PageObjectModel"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="surefire.real.class.path" value="/var/lib/jenkins/workspace/Playwright-Java-PageObjectModel/target/surefire/surefirebooter13181279949628077640.jar"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="17.0.14+7-LTS"/>
+    <property name="user.name" value="root"/>
+    <property name="path.separator" value=":"/>
+    <property name="os.version" value="5.14.0-570.el9.x86_64"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="(Red_Hat-17.0.14.0.7-1)"/>
+    <property name="localRepository" value="/root/.m2/repository"/>
+    <property name="java.vendor.url.bug" value="https://access.redhat.com/support/cases/"/>
+    <property name="java.io.tmpdir" value="/tmp"/>
+    <property name="java.version" value="17.0.14"/>
+    <property name="user.dir" value="/var/lib/jenkins/workspace/Playwright-Java-PageObjectModel"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="native.encoding" value="UTF-8"/>
+    <property name="java.library.path" value="/usr/java/packages/lib:/usr/lib64:/lib64:/lib:/usr/lib"/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.vendor" value="Red Hat, Inc."/>
+    <property name="java.vm.version" value="17.0.14+7-LTS"/>
+    <property name="java.specification.maintenance.version" value="1"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="61.0"/>
+  </properties>
+  <testcase name="homePageTitleTest" classname="com.qa.opencart.tests.HomePageTest" time="0.908"/>
+  <testcase name="homePageURLTest" classname="com.qa.opencart.tests.HomePageTest" time="0.003"/>
+  <testcase name="loginPageNavigationTest" classname="com.qa.opencart.tests.LoginPageTest" time="1.187"/>
+  <testcase name="forgotPwdLinkExistTest" classname="com.qa.opencart.tests.LoginPageTest" time="0.286"/>
+  <testcase name="appLoginTest" classname="com.qa.opencart.tests.LoginPageTest" time="0.837"/>
+  <testcase name="searchTest" classname="com.qa.opencart.tests.HomePageTest" time="4.885"/>
+  <testcase name="searchTest" classname="com.qa.opencart.tests.HomePageTest" time="5.641"/>
+  <testcase name="searchTest" classname="com.qa.opencart.tests.HomePageTest" time="5.572"/>
+</testsuite>
